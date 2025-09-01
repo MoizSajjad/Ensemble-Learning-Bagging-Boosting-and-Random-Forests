@@ -34,8 +34,7 @@ The notebook compares a baseline Decision Tree with **Bagging, AdaBoost, and Ran
 2. Install dependencies
 pip install -r requirements.txt
 
-Repository Structure
 BaggingBoosting_RandomForest/
 │── BaggingBoosting_RandomForest.ipynb   # Main notebook
 │── requirements.txt                     # Dependencies
-└── README.md                 
+└── README.md                            # Project documentation
